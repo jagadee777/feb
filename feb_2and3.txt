@@ -1,0 +1,12 @@
+02/02/2021
+===========
+1.About basic authentication
+2.Leetcode
+
+03/02/2021
+==========
+1.Some basic python interview questions.
+2.Read Python difference between List and Tuple,its in built functions.
+3.Leet code 
+
+
