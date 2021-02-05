@@ -1,0 +1,11 @@
+4/01/2021
+===========
+python interview questions 
+
+mysql database connectivity python
+1.establishing the connection
+2.creating a database
+3.creating a table
+4.entering the data into table
+5.how updating
+
