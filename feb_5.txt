@@ -1,0 +1,16 @@
+5/01/2021
+===========
+mysql data base connection with python 
+---------------------------------------
+1.How to access the data by using the SELECT statement
+2.how to filter the data by using WHERE  clause
+3.LIKE operator to search for specified pattern in a column
+4.wildcard character % (it is a placeholder used with LIKE in filtering the data)
+5.ORDER BY keyword is used to sort the result-set in ascending or descending order
+6.GROUP BY keyword is used to groups rows that have same values
+7.DROP TABLE statement is used to drop an existing table in a database
+8.DELETE statement is used to delete existing records in a table
+
+Task
+====
+requirement:To know the count and its toatl size of the files based on the file format and paths are provided dynamically
