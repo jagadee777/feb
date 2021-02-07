@@ -1,0 +1,10 @@
+6/01/2021
+=========
+morning
+---------
+Python dictionary datatype
+how to access items,change items,add items, removing,updating,deleting and looping
+
+afternoon
+---------
+python explaination and discussion
