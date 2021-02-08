@@ -1,0 +1,20 @@
+8/02/2021
+==========
+
+for noon
+========
+leetcode challenge:
+-------------------
+1.take a paragraph to know the frequency of words
+2.count and say string(ex: i/p:33332225555 o/p:433245)
+
+after noon
+===========
+watched oop concept videos to know
+-----------------------------------
+1.what is OOP
+2.what is class
+3.what is object
+4.what is reference variable
+5.self variable in detailed
+6.special method __init__()
