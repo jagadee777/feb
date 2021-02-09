@@ -1,0 +1,35 @@
+09/02/2021
+===========
+mornig
+======
+
+python basics explained to____
+
+created two virtualenvironments--1) venv for python version-3  
+				 2) venv for python version-2
+
+coding challenge
+-----------------
+to find the given num is prime or not
+to find the prime number count in the given range
+
+afternoon
+===========
+watched pyhton OOP concept videos
+----------------------------------
+types of variables-
+1.instance
+2.static variables
+3.local variables
+
+instance varaibles
+------------------
+how to create 
+how to access
+hoe to delete
+
+static variables
+----------------
+how to create
+how to access
+how to delete
