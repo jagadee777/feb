@@ -1,0 +1,26 @@
+10/02/2021
+==========
+hacker rank- read phone book dict and search the phone number by giving name if key exits print phone number else print not found
+leet code-finding the power(x,n) 
+	if the exponent is positive do x**n
+	if exponent is negative perform (1/(x**n))
+
+pyhton OOP concept
+-------------------
+1.static variables
+----------------
+where to declare
+how to access
+how to update 
+how to delete
+
+2.local variables
+3.simple banking application
+
+4.types of methods
+-----------------
+instance methods
+-----------------
+getter and setter methods
+
+
