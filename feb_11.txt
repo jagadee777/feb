@@ -1,0 +1,12 @@
+11/02/2021
+===========
+Types of methods
+-----------------
+1.instance methods
+2.class methods
+3.static methods
+
+Inner classes
+Nested methods
+Garbage collection
+Constructor() and Destructor()
