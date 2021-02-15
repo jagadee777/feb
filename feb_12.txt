@@ -1,0 +1,25 @@
+12/02/2021
+==========
+Polymorphism
+-------------
+1.Duck type phlosophy of python
+2.Overloading:
+-------------
+operator overloading--python supports
+method overloading--python does not support
+constuctor overloading--pyhton does not support
+
+3.Overriding
+-------------
+method overriding
+constructor overriding
+
+Inheritance
+------------
+types
+-----
+single level
+muti level
+muptiple
+
+
