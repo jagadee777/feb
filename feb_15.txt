@@ -1,0 +1,22 @@
+15/02/2021
+===========
+HackerRank
+----------
+Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade
+
+leetcode
+--------
+Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
+
+
+Python 
+--------
+file handling both text and binary files
+modes for text files:w,r,a,a+,r+,w+,x(exclusive)
+modes for binary: wb,rb,ab,ab+,rb+,wb+,xb(exclusive)
+
+with statement
+
+handling csv(comma separated values) files
+
+ 
