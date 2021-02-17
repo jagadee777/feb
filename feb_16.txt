@@ -1,0 +1,16 @@
+16/02/2021
+===========
+hacker rank
+------------
+1.nested lists i.e.,print the dimensions of the cube and print the required dimensions whoes addition is not equal to the target
+
+
+2.You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
+
+task
+-----
+take a csv file
+write the data 
+read the data 
+modify the data in the 3rd column into the required format
+ie. 19-dec-2020 to 19-dec-2020
