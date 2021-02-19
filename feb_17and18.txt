@@ -1,0 +1,17 @@
+17/02/2021
+==========
+task
+------
+python csv file handling
+
+installed jupyter notebook
+and tried one dictionary-program and factorial of a num using recursion
+
+python explanined about conditional statements
+
+18/02/2021
+==========
+task
+-----
+write a python program to find the list of ec2 instances 
+
