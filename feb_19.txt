@@ -1,0 +1,6 @@
+19/02/2021
+==========
+1.python program to print the first non repeated num in the given list
+2.to print the patterns
+3.program to add and multiply two matrices
+
