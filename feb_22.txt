@@ -1,0 +1,11 @@
+22-02-2021
+===========
+#leet code 139
+---------------
+1.To find the lucky integer i.e whoes frequency is equals to its value
+2.program to find  perfect number.
+
+python funtions
+----------------
+practiced the programs on functions
+
